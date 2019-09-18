@@ -48,4 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = cherratbachir@gmail.com
-	name = Bachir Cherrat
+	name = BachirCherrat
+[http]
+	postBuffer = 524288000
